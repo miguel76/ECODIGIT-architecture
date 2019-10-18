@@ -1,0 +1,62 @@
+https://dtclazio.it/api/v1/asset?kind=organizzazioni&query=(*:*)&rows=48
+
+kind: organizzazioni, prodotti, progetti, persone
+
+{
+  assets: [],
+  facets: [],
+  numFound: 216,
+  start: 0
+}
+
+
+# asset
+
+abstracts: null
+acronimo: null
+anno: null
+descrProfilo: null
+descrizione: "<![CDATA[Il laboratorio svolge attività di pulizia, primo restauro, siglatura e schedatura del materiale archeologico proveniente dagli scavi in concessione del Dipartimento. Attraverso una collaborazione con dottorandi e docenti della Facoltà di Scienze MM. FF. NN. di questo Ateneo si è sviluppata una capacità di intervento su materiale osteologico umano e animale sub-fossile e fossile. Si eseguono lavori di microscavo in laboratorio di reperti fortemente concrezionati provenienti da ambienti carsici. In collaborazione con la Soprintendenza Archeologica per il Lazio si è allestito un settore fotografico specializzato per la documentazione fotografica professionale dei reperti.]]>"
+geocoding: null
+id: "r4_s2-a1-t2_00ab100a7a0f423cdea4187ad8a7cb4b"
+indirizzo: null
+indirizzoCanonico: null
+kind: "organizzazioni"
+membro: ["Mario Federico Rolfo"]
+nomeECognome: null
+nomeInglese: null
+nomeItaliano: "Laboratorio di Paletnologia"
+provenienza: "Sito web DTC Lazio"
+thumbs: null
+tipologia: "Laboratorio di Ricerca"
+titolo: null
+titoloVolume: null
+
+# facet
+
+facetCounts: [{name: "Laboratorio di Ricerca", count: 158, field: "TIPOLOGIA_s-i-s"},…]
+field: "TIPOLOGIA_s-i-s"
+label: "Tipologia"
+
+
+https://dtclazio.it/api/v1/asset?query=(TEXT:(%2Bgrafo))&kind=prodotti&rows=48
+
+abstracts: ["blah blah",…]
+acronimo: null
+anno: "2018"
+descrProfilo: null
+descrizione: null
+geocoding: null
+id: "r1_s1-a2-t1_c57f07072830e9b57a1620ed6c6e7108"
+indirizzo: null
+indirizzoCanonico: null
+kind: "prodotti"
+membro: null
+nomeECognome: null
+nomeInglese: null
+nomeItaliano: null
+provenienza: "CNR Consiglio Nazionale delle Ricerche"
+thumbs: ["2019/10/10/11/49/b858f3ca-c52c-4f28-8ed1-3ecac9719eb7_thumb.jpeg"]
+tipologia: "Prodotto della ricerca"
+titolo: "Diffusione e reazione: dal moto Browniano alla diffusione delle epidemie"
+titoloVolume: "Matematica, cultura e società (Bologna) Print"
