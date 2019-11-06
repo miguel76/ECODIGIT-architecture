@@ -1,9 +1,15 @@
-<mxfile host="www.draw.io" modified="2019-11-06T18:26:04.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="u7eWH2x9GqB_OTctib7f" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-06T18:27:29.811Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="SHiDeSKRy810mzrxJ5U9" version="12.2.0" type="github" pages="1">
   <diagram id="PLrUu4iucB1gCnoqMBO_" name="Page-1">
     <mxGraphModel dx="786" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-67" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="98" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-66" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="98" height="40" as="geometry"/>
+        </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-46" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="25" width="60" height="60" as="geometry"/>
         </mxCell>
@@ -32,16 +38,16 @@
           <mxGeometry x="140" y="220" width="100" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-18" value="CSV to RDF&lt;br&gt;Transform.&lt;br&gt;(TARQL)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" vertex="1" parent="1">
-          <mxGeometry x="330" y="140" width="98" height="50" as="geometry"/>
+          <mxGeometry x="330" y="150" width="98" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-21" value="SPARQL &amp;lt;-&amp;gt; SQL&lt;br&gt;Adapter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="160" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-22" value="RDB to RDF&lt;br&gt;Mapping&lt;br&gt;(R2RML)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" vertex="1" parent="1">
-          <mxGeometry x="330" y="210" width="98" height="50" as="geometry"/>
+          <mxGeometry x="329" y="240" width="98" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-23" value="LOD-RH&lt;br&gt;Configuration" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" vertex="1" parent="1">
-          <mxGeometry x="330" y="280" width="98" height="40" as="geometry"/>
+          <mxGeometry x="329" y="320" width="98" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-25" value="DBMS" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="40" width="60" height="60" as="geometry"/>
