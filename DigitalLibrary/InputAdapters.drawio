@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-06T17:50:45.485Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="ilOaZDjGhLNQCZv8p6IU" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-06T17:51:02.616Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="PPkmHYfBmYfh3SnI7jtm" version="12.2.0" type="github" pages="1">
   <diagram id="PLrUu4iucB1gCnoqMBO_" name="Page-1">
     <mxGraphModel dx="786" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="18" y="124" width="78" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-21" value="SPARQL &amp;lt;-&amp;gt; SQL&lt;br&gt;Adapter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="160" width="120" height="60" as="geometry"/>
+          <mxGeometry x="560" y="160" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-22" value="RDB to RDF&lt;br&gt;Mapping&lt;br&gt;(R2RML)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" vertex="1" parent="1">
           <mxGeometry x="352" y="135" width="98" height="50" as="geometry"/>
