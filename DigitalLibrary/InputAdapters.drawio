@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-06T18:06:08.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="cw1dcn1PAJHKdtkL-IET" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-06T18:19:34.505Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="D_1GplRqOawOK0JWJEdF" version="12.2.0" type="github" pages="1">
   <diagram id="PLrUu4iucB1gCnoqMBO_" name="Page-1">
     <mxGraphModel dx="786" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,30 +39,6 @@
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-18" value="CSV to RDF&lt;br&gt;Transform.&lt;br&gt;(TARQL)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" vertex="1" parent="1">
           <mxGeometry x="352" y="204.5" width="98" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="320" y="400" width="118" height="164" as="geometry"/>
-        </mxCell>
-        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-19" value="" style="group" vertex="1" connectable="0" parent="Lo9OmRsVtHrHbYx5dEMw-20">
-          <mxGeometry width="118" height="164" as="geometry"/>
-        </mxCell>
-        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-11" value="" style="group" vertex="1" connectable="0" parent="Lo9OmRsVtHrHbYx5dEMw-19">
-          <mxGeometry width="118" height="164" as="geometry"/>
-        </mxCell>
-        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-1" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="Lo9OmRsVtHrHbYx5dEMw-11">
-          <mxGeometry width="118" height="164" as="geometry"/>
-        </mxCell>
-        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-2" value="File System&lt;br&gt;Staging Area" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lo9OmRsVtHrHbYx5dEMw-11">
-          <mxGeometry x="18" y="18" width="80" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-3" value="RDF/XML" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" vertex="1" parent="Lo9OmRsVtHrHbYx5dEMw-11">
-          <mxGeometry x="18" y="64" width="78" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-5" value="RDF/XML" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" vertex="1" parent="Lo9OmRsVtHrHbYx5dEMw-11">
-          <mxGeometry x="18" y="94" width="78" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-6" value="RDF/XML" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;dashed=1;" vertex="1" parent="Lo9OmRsVtHrHbYx5dEMw-11">
-          <mxGeometry x="18" y="124" width="78" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-21" value="SPARQL &amp;lt;-&amp;gt; SQL&lt;br&gt;Adapter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="160" width="120" height="40" as="geometry"/>
@@ -177,6 +153,21 @@
             <mxPoint x="90" y="310" as="sourcePoint"/>
             <mxPoint x="200" y="400" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-6" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="465" width="78" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-1" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="118" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-2" value="File System&lt;br&gt;Staging Area" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="338" y="409" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-57" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="465" width="78" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-3" value="RDF/XML" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" vertex="1" parent="1">
+          <mxGeometry x="334" y="455" width="78" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
