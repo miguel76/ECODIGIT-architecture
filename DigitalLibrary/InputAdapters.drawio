@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-08T14:34:04.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="musF9bpHuFp8KvaWzmur" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T14:41:24.662Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="ykxGACZJ7PNRv2Lkmf2r" version="12.2.0" type="github" pages="1">
   <diagram id="PLrUu4iucB1gCnoqMBO_" name="Page-1">
-    <mxGraphModel dx="786" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -23,19 +23,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="614" width="210" height="176" as="geometry"/>
+          <mxGeometry x="165.5" y="640" width="210" height="176" as="geometry"/>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-9" value="Triple Store" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="629" width="60" height="80" as="geometry"/>
+          <mxGeometry x="474" y="630" width="60" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-12" value="Digital Library" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="584" width="200" height="20" as="geometry"/>
+        <mxCell id="Lo9OmRsVtHrHbYx5dEMw-12" value="Digital Library" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="175.5" y="610" width="90" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-13" value="Dereferencer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="438" y="755" width="90" height="40" as="geometry"/>
+          <mxGeometry x="410" y="753" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-14" value="LodView" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="755" width="90" height="40" as="geometry"/>
+          <mxGeometry x="522" y="754" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-15" value="LOD&lt;br&gt;Resource Harvester" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="492.5" y="310" width="140" height="41" as="geometry"/>
@@ -108,14 +108,14 @@
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-43" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=0.15;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lo9OmRsVtHrHbYx5dEMw-13" target="Lo9OmRsVtHrHbYx5dEMw-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="681" as="sourcePoint"/>
-            <mxPoint x="470" y="631" as="targetPoint"/>
+            <mxPoint x="354" y="682" as="sourcePoint"/>
+            <mxPoint x="404" y="632" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-44" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=0.85;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lo9OmRsVtHrHbYx5dEMw-14" target="Lo9OmRsVtHrHbYx5dEMw-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="581" as="sourcePoint"/>
-            <mxPoint x="700" y="531" as="targetPoint"/>
+            <mxPoint x="584" y="582" as="sourcePoint"/>
+            <mxPoint x="634" y="532" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-50" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lo9OmRsVtHrHbYx5dEMw-37" target="Lo9OmRsVtHrHbYx5dEMw-26">
@@ -233,13 +233,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-81" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="69" y="620" width="203" height="162" as="geometry"/>
+          <mxGeometry x="164.5" y="646" width="203" height="162" as="geometry"/>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-8" value="Apache Manifold" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="631" width="120" height="38" as="geometry"/>
+          <mxGeometry x="205.5" y="657" width="120" height="38" as="geometry"/>
         </mxCell>
         <mxCell id="Lo9OmRsVtHrHbYx5dEMw-80" value="Front End" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="736" width="120" height="38" as="geometry"/>
+          <mxGeometry x="205.5" y="762" width="120" height="38" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
