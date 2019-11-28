@@ -1,0 +1,22 @@
+PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
+PREFIX DUL: <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX locn: <https://www.w3.org/ns/locn#>
+PREFIX wgs84: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+SELECT DISTINCT ?uriOggetto ?titolo ?lat ?long WHERE {
+  ?uriOggetto a  DUL:Object .
+  ?uriOggetto dc:title ?titolo .
+  ?uriOggetto locn:geometry ?geo .
+  ?uriOggetto a  ?tipologia .
+  ?uriOggetto dcterms:subject ?categoria .
+  ?geo wgs84:lat ?lat .
+  ?geo wgs84:long ?long .
+  ?geo geo:asWKT ?fWKT . 
+  FILTER (?categoria IN (<https://w3id.org/ecodigit/resource/Rilievo_dell%27architettura>, <https://w3id.org/ecodigit/resource/Modellazione_3d>)) .
+  FILTER (?tipologia IN (<https://w3id.org/ecodigit/resource/Articolo>)) .
+  FILTER (regex(?titolo,"manziana","i")).
+  FILTER (geof:sfWithin(?fWKT, "<http://www.opengis.net/def/crs/OGC/1.3/CRS84>POLYGON((12.01455734518413 42.19275912967134,12.40182541159038 42.21920747198731,12.34140060690288 41.9879195167938,12.15463302877788 42.020575067352155,12.01455734518413 42.19275912967134))"^^geo:wktLiteral))
+}
