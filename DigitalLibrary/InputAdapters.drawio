@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-08T18:20:37.371Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="KhuTGonBQibqqs5mQzOl" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-08T18:21:20.306Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="xiLyhGDLUIkbxSlhq4Qr" version="12.4.9" type="github" pages="2">
   <diagram id="PLrUu4iucB1gCnoqMBO_" name="DataFlow Diagram">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -280,7 +280,7 @@
           <mxGeometry x="290" y="310" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-16" value="«component»&lt;br&gt;&lt;b&gt;IRI Dereferencer&lt;/b&gt;" style="html=1;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-1">
-          <mxGeometry x="210" y="590" width="180" height="90" as="geometry"/>
+          <mxGeometry x="210" y="580" width="180" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-17" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-16">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
