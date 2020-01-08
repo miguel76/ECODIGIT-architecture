@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-08T18:15:04.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="qgSoGJ0mHX0RekP1FD-3" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-08T18:15:58.473Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="hWaO76WjLvSDnWOjYf23" version="12.4.9" type="github" pages="2">
   <diagram id="PLrUu4iucB1gCnoqMBO_" name="DataFlow Diagram">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -264,6 +264,9 @@
             <mxPoint x="310" y="480" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-MdIOpX2ihZ_KdPi68zy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="-MdIOpX2ihZ_KdPi68zy-1" source="-MdIOpX2ihZ_KdPi68zy-7" target="-MdIOpX2ihZ_KdPi68zy-16">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-7" value="SPARQL Endpoint" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;direction=south;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-1">
           <mxGeometry x="290" y="500" width="20" height="20" as="geometry"/>
         </mxCell>
@@ -272,6 +275,14 @@
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-12" value="Graph Store Protocol" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;direction=north;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-1">
           <mxGeometry x="290" y="310" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="-MdIOpX2ihZ_KdPi68zy-16" value="«component»&lt;br&gt;&lt;b&gt;IRI Dereferencer&lt;/b&gt;" style="html=1;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-1">
+          <mxGeometry x="210" y="600" width="180" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="-MdIOpX2ihZ_KdPi68zy-17" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-16">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
