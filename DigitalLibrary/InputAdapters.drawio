@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-09T14:41:14.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="s1uwZh47n94v_UV1zu7Y" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-09T14:41:36.742Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="kYSPeQ2BA1AnQnl6n-mB" version="12.4.9" type="github" pages="2">
   <diagram id="PLrUu4iucB1gCnoqMBO_" name="DataFlow Diagram">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -315,7 +315,7 @@
             <mxPoint x="110" y="120" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-MdIOpX2ihZ_KdPi68zy-28" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;LOD Resource Harvester&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ file path: string&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ mapping: TARQL&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-1">
+        <mxCell id="-MdIOpX2ihZ_KdPi68zy-28" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;LOD Res. Harvester&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ file path: string&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ mapping: TARQL&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-1">
           <mxGeometry x="680" width="180" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-29" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-28">
