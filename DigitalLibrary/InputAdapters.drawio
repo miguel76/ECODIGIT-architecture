@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-09T15:19:28.384Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="CFf21qLKiKGogGYQlapA" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-09T15:22:36.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="twRKaUUnUc7pGE00uMOq" version="12.4.9" type="github" pages="2">
   <diagram id="PLrUu4iucB1gCnoqMBO_" name="DataFlow Diagram">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-0"/>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-1" parent="-MdIOpX2ihZ_KdPi68zy-0"/>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-3" value="«component»&lt;br&gt;&lt;b&gt;Triple Store&lt;/b&gt;" style="html=1;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-1">
-          <mxGeometry x="210" y="540" width="180" height="90" as="geometry"/>
+          <mxGeometry x="210" y="490" width="180" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-4" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-3">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -265,7 +265,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-7" value="SPARQL Endpoint" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;direction=south;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-1">
-          <mxGeometry x="290" y="660" width="20" height="20" as="geometry"/>
+          <mxGeometry x="290" y="570" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="-MdIOpX2ihZ_KdPi68zy-1" source="-MdIOpX2ihZ_KdPi68zy-12" target="-MdIOpX2ihZ_KdPi68zy-3">
           <mxGeometry relative="1" as="geometry"/>
@@ -274,10 +274,10 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-12" value="Graph Store Protocol" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;direction=north;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-1">
-          <mxGeometry x="290" y="470" width="20" height="20" as="geometry"/>
+          <mxGeometry x="290" y="430" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-16" value="«component»&lt;br&gt;&lt;b&gt;IRI Dereferencer&lt;/b&gt;" style="html=1;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-1">
-          <mxGeometry x="450" y="740" width="180" height="90" as="geometry"/>
+          <mxGeometry x="450" y="650" width="180" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-17" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-16">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -285,7 +285,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-19" value="«component»&lt;br&gt;&lt;b&gt;RDF Loader&lt;/b&gt;" style="html=1;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-1">
-          <mxGeometry x="210" y="350" width="180" height="90" as="geometry"/>
+          <mxGeometry x="210" y="350" width="180" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-20" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-19">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -477,7 +477,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-82" value="«component»&lt;br&gt;&lt;b&gt;Dedicated Front End&lt;/b&gt;" style="html=1;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-1">
-          <mxGeometry x="210" y="740" width="180" height="90" as="geometry"/>
+          <mxGeometry x="210" y="650" width="180" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-83" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-82">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
