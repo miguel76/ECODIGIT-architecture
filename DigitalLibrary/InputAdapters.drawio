@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-09T13:28:16.583Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="BqSO_92O8r6zN_hwJxnd" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-09T14:22:15.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Hm--qQAvnmggV2PK-yM9" version="12.4.9" type="github" pages="2">
   <diagram id="PLrUu4iucB1gCnoqMBO_" name="DataFlow Diagram">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -427,6 +427,9 @@
         </mxCell>
         <mxCell id="-MdIOpX2ihZ_KdPi68zy-52" value="SPARQL Endpoint" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;direction=south;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-1">
           <mxGeometry x="760" y="-80" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="-MdIOpX2ihZ_KdPi68zy-66" value="Boundary Object" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="-MdIOpX2ihZ_KdPi68zy-1">
+          <mxGeometry x="210" y="890" width="100" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
