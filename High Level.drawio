@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-09T20:42:30.048Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Fl32mPLQCrt_VQLtq5Iw" version="12.5.1" type="github" pages="3">
+<mxfile modified="2020-01-09T20:44:19.051Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="vLVXZcUO6-TyTu5JQCWl" version="12.5.1" type="github" pages="3">
   <diagram id="x-GXoumUO5DQMGYrBul2" name="Generale">
     <mxGraphModel dx="1613" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -523,12 +523,18 @@
           <mxGeometry x="456" y="529" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="8lwSTLrut1k7wmea1Iae-39" value="«component»&lt;br&gt;&lt;b&gt;Content Repository&lt;br&gt;(Digital Library)&lt;br&gt;&lt;/b&gt;" style="html=1;" vertex="1" parent="8lwSTLrut1k7wmea1Iae-1">
-          <mxGeometry x="230" y="60" width="180" height="90" as="geometry"/>
+          <mxGeometry x="230" y="60" width="180" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="8lwSTLrut1k7wmea1Iae-40" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="8lwSTLrut1k7wmea1Iae-39">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8lwSTLrut1k7wmea1Iae-41" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;direction=south;" vertex="1" parent="8lwSTLrut1k7wmea1Iae-1">
+          <mxGeometry x="270" y="200" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="8lwSTLrut1k7wmea1Iae-42" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;direction=south;" vertex="1" parent="8lwSTLrut1k7wmea1Iae-1">
+          <mxGeometry x="350" y="200" width="20" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
