@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-10T17:01:01.540Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="6BLCxt43PLFlvOBwcxPu" version="12.5.1" type="github" pages="3">
+<mxfile modified="2020-01-10T17:01:41.881Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Bj9DTYuVEgFzj1avzIpy" version="12.5.1" type="github" pages="3">
   <diagram id="x-GXoumUO5DQMGYrBul2" name="Generale">
     <mxGraphModel dx="2493" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -876,6 +876,21 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hw55FSTsT6JF-FCdRAyc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="8lwSTLrut1k7wmea1Iae-1" source="hw55FSTsT6JF-FCdRAyc-51" target="hw55FSTsT6JF-FCdRAyc-49">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hw55FSTsT6JF-FCdRAyc-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="8lwSTLrut1k7wmea1Iae-1" source="hw55FSTsT6JF-FCdRAyc-51" target="hw55FSTsT6JF-FCdRAyc-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="200"/>
+              <mxPoint x="1230" y="200"/>
+              <mxPoint x="1230" y="380"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hw55FSTsT6JF-FCdRAyc-51" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;direction=south;" vertex="1" parent="8lwSTLrut1k7wmea1Iae-1">
+          <mxGeometry x="1100" y="100" width="20" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
