@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-10T15:57:05.759Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="e3I_P3mAe_zFOXf3ieLo" version="12.5.1" type="github" pages="3">
+<mxfile modified="2020-01-10T16:00:37.698Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="SW-UxUmHdV1MbF5yvi_W" version="12.5.1" type="github" pages="3">
   <diagram id="x-GXoumUO5DQMGYrBul2" name="Generale">
     <mxGraphModel dx="2493" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -722,6 +722,22 @@
           <mxGeometry x="11" y="60" width="180" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="hw55FSTsT6JF-FCdRAyc-7" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="hw55FSTsT6JF-FCdRAyc-6">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hw55FSTsT6JF-FCdRAyc-9" value="&lt;br&gt;«npm package»&lt;br&gt;&lt;b&gt;component set A&lt;/b&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="8lwSTLrut1k7wmea1Iae-1">
+          <mxGeometry x="95" y="400" width="202" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="hw55FSTsT6JF-FCdRAyc-10" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="hw55FSTsT6JF-FCdRAyc-9">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hw55FSTsT6JF-FCdRAyc-11" value="«react component»&lt;br&gt;&lt;b&gt;component A1&lt;/b&gt;" style="html=1;" vertex="1" parent="8lwSTLrut1k7wmea1Iae-1">
+          <mxGeometry x="340" y="460" width="180" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="hw55FSTsT6JF-FCdRAyc-12" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="hw55FSTsT6JF-FCdRAyc-11">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset"/>
           </mxGeometry>
