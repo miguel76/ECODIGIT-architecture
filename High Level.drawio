@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-10T17:03:22.755Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Sq-ulYBQGK3munDvC5RL" version="12.5.1" type="github" pages="3">
+<mxfile modified="2020-01-10T17:04:17.375Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="R0DPoTfeBnHLjrCxztdm" version="12.5.1" type="github" pages="3">
   <diagram id="x-GXoumUO5DQMGYrBul2" name="Generale">
     <mxGraphModel dx="2493" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -714,10 +714,10 @@
         <mxCell id="8lwSTLrut1k7wmea1Iae-46" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;direction=south;" parent="8lwSTLrut1k7wmea1Iae-1" vertex="1">
           <mxGeometry x="920" y="90" width="20" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="hw55FSTsT6JF-FCdRAyc-4" value="&lt;br&gt;«npm package»&lt;br&gt;&lt;b&gt;Mngmt of Front End &amp;amp; Services&lt;/b&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="8lwSTLrut1k7wmea1Iae-1">
+        <mxCell id="hw55FSTsT6JF-FCdRAyc-4" value="«npm package»&lt;br&gt;&lt;b&gt;Mngmt of Front End &amp;amp; Services&lt;/b&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="8lwSTLrut1k7wmea1Iae-1">
           <mxGeometry x="870" y="300" width="320" height="240" as="geometry"/>
         </mxCell>
-        <mxCell id="hw55FSTsT6JF-FCdRAyc-9" value="&lt;br&gt;«npm package»&lt;br&gt;&lt;b&gt;component set A&lt;/b&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="8lwSTLrut1k7wmea1Iae-1">
+        <mxCell id="hw55FSTsT6JF-FCdRAyc-9" value="«npm package»&lt;br&gt;&lt;b&gt;component set A&lt;/b&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="8lwSTLrut1k7wmea1Iae-1">
           <mxGeometry x="870" y="560" width="320" height="160" as="geometry"/>
         </mxCell>
         <mxCell id="hw55FSTsT6JF-FCdRAyc-19" value="«component»&lt;br&gt;&lt;b&gt;npm&lt;/b&gt;" style="html=1;verticalAlign=middle;" vertex="1" parent="8lwSTLrut1k7wmea1Iae-1">
